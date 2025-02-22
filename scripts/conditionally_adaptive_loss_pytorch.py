@@ -1,16 +1,3 @@
-"""
-======================================================================
- Title:                   Conditionally Adaptive Loss Function
- Creating Author:         Janan Arslan
- Creation Date:           [06-03-2024]
- Latest Modification:     [06-03-2024]
- Modification Author:     Janan Arslan
- E-mail:                  janan.arslan@icm-institute.org
- Version:                 1.1
-======================================================================
-
-"""
-
 import cv2
 import numpy as np
 import torch
